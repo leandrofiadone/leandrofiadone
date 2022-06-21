@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">A passionate FullStack Developer from Argentina learning about BlockChain</h3>
 
-![alt text](https://p4.wallpaperbetter.com/wallpaper/176/195/659/javascript-node-js-abstract-logo-wallpaper-preview.jpg)
-
+<image-crop src="https://p4.wallpaperbetter.com/wallpaper/176/195/659/javascript-node-js-abstract-logo-wallpaper-preview.jpg" rounded></image-crop>
 
 - 🔭 I’m currently working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
 
