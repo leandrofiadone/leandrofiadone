@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">A passionate FullStack Developer from Argentina learning about BlockChain</h3>
-
+<p align="center">
 ![alt text](https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg)
-
+</p>
 - 🔭 I’m currently working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
 
 - 🌱 I’m currently learning **Solidity, TypeScript, React-Native**
