@@ -3,6 +3,8 @@
 
 ![](https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg| width=100px)
 
+<img src="https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg" width="100" height="100">
+
 - 🔭 I’m currently working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
 
 - 🌱 I’m currently learning **Solidity, TypeScript, React-Native**
