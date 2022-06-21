@@ -26,5 +26,5 @@
 
 ![alt text](https://monophy.com/media/XH9wwXfUXu91wAJwN5/monophy.gif)
 
-<img  align="center" src="https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg" width="400">
+<img src="https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg" width="600">
 
