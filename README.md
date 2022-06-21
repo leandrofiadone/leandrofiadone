@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack Developer from Argentina learning about BlockChain</h3>
 
 
-<img src="https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg" width="200">
+<img src="https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg" width="400">
 
 - 🔭 I’m currently working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
 
