@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">A passionate FullStack Developer from Argentina learning about BlockChain</h3>
 
-![](https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg| width=100px)
 
-<img src="https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg" width="100" height="100">
+<img src="https://thumbs.dreamstime.com/b/program-code-flag-argentina-argentinean-digital-technology-programming-related-d-rendering-source-code-flag-121302268.jpg" width="200">
 
 - 🔭 I’m currently working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
 
