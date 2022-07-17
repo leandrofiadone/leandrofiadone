@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">A passionate FullStack Developer from Argentina learning about BlockChain</h3>
+<h1 align="center">Hola 👋, here Leandro</h1>
+<h3 align="center">FullStack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
+- 🔭 I had been working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
 
 - 🌱 I’m currently learning **Solidity, TypeScript, React-Native**
 
