@@ -1,8 +1,6 @@
 <h1>Hola 👋, here Leandro</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="600">
-
-<h3>FullStack Developer from Argentina</h3>
+<h2>FullStack Developer from Argentina</h2>
 
 - :grey_exclamation: I am working on [Pl4nner](http://pl4nner.com/)
 
@@ -17,6 +15,8 @@
 - 💬 Ask me about **React, Redux, Node.js**
 
 - 📫 How to reach me **leanfiadone@gmail.com**
+
+<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="600">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
