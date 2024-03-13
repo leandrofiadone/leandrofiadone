@@ -13,7 +13,8 @@
 - 💬 Ask me about **React, Redux, Node.js**
 
 - 📫 How to reach me **leanfiadone@gmail.com**
-
+<br><br>
+<h2>FullStack Developer from Argentina</h2>
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
@@ -25,7 +26,7 @@
 </div>
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500">
-<h2>FullStack Developer from Argentina</h2>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
