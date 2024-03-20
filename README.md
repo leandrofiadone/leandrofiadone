@@ -24,7 +24,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="70">
 </div>
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
