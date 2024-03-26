@@ -31,6 +31,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-fiadone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-fiadone/" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/elmaestroyoda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/elmaestroyoda/" width="40" /></a>
 <a href="https://instagram.com/leandrofiadone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leandrofiadone" width="40" /></a>
+
 </p>
 <br><br>  
 
