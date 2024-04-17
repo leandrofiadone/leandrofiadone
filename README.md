@@ -11,19 +11,16 @@
 </div>
 <h3 align="center">FullStack Developer from Argentina</h3>
 <br></br>
-<div align='center'>
+
 - 🔭 I had been working on [Pl4nner](https://pl4nner.com/)
 
 - 🌱 I’m currently learning about **Langchain, Solidity and React-Native**
-</div>
+
 <br></br>
 <p align="center">  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-fiadone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-fiadone/" width="20" /></a>
-
-
 </p>
 <br><br>  
-
 
 
 
