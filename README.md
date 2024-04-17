@@ -11,9 +11,9 @@
 </div>
 <h3 align="center">FullStack Developer from Argentina</h3>
 <br></br>
-- :grey_exclamation: I am working on [Pl4nner](http://pl4nner.com/)
+- :grey_exclamation: I am working on [Pl4nner](https://pl4nner.com/)
 
-- 🔭 I had been working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
+- 🔭 I had been working on [Pl4nner](https://pl4nner.com/)
 
 - 🌱 I’m currently learning **Solidity, TypeScript, React-Native**
 
