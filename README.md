@@ -11,20 +11,10 @@
 </div>
 <h3 align="center">FullStack Developer from Argentina</h3>
 <br></br>
-- :grey_exclamation: I am working on [Pl4nner](https://pl4nner.com/)
 
 - 🔭 I had been working on [Pl4nner](https://pl4nner.com/)
 
-- 🌱 I’m currently learning **Solidity, TypeScript, React-Native**
-
-- 🤝 I’m looking for help with [BlockChain](https://github.com/leandrofiadone/full-blockchain-solidity-course-js)
-
-- 👨‍💻 All of my projects are available at [https://github.com/leandrofiadone?tab=repositories](https://github.com/leandrofiadone?tab=repositories)
-
-- 💬 Ask me about **React, Redux, Node.js**
-
-- 🌱 I’m currently learning **Langchain, Solidity, TypeScript, React-Native**
-
+- 🌱 I’m currently learning about **Langchain, Solidity and React-Native**
 
 <br></br>
 <p align="center">  
