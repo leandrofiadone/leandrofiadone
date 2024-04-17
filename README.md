@@ -1,11 +1,11 @@
 <h1>Hola 👋, here Leandro</h1>
-
+<h2>FullStack Developer from Argentina</h2>
 - 🔭 I had been working on [Pl4nner](http://pl4nner.com/)
 
 - 🌱 I’m currently learning **Langchain, Solidity, TypeScript, React-Native**
 
 - 📫 How to reach me **leanfiadone@gmail.com**
-<h2>FullStack Developer from Argentina</h2>
+
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="20">
