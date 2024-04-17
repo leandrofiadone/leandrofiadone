@@ -11,7 +11,8 @@
 </div>
 <h3 align="center">FullStack Developer from Argentina</h3>
 <br></br>
-- 🔭 I had been working on [Pl4nner](http://pl4nner.com/)
+- 🔭 I had been working on [Pl4nner]
+(http://pl4nner.com/)
 
 - 🌱 I’m currently learning **Langchain, Solidity, TypeScript, React-Native**
 
