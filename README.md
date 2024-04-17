@@ -15,7 +15,6 @@
 
 - 🌱 I’m currently learning **Langchain, Solidity, TypeScript, React-Native**
 
-- 📫 How to reach me **leanfiadone@gmail.com**
 
 <br></br>
 <p align="center">  
