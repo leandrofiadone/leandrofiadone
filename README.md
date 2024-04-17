@@ -1,5 +1,6 @@
 <h1>Hola 👋, here Leandro</h1>
 <div align="center">
+  <br></br>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45">
@@ -16,6 +17,7 @@
 
 - 📫 How to reach me **leanfiadone@gmail.com**
 
+<br></br>
 <p align="center">  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-fiadone/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-fiadone/" width="20" /></a>
 
