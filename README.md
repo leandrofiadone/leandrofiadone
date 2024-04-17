@@ -11,8 +11,17 @@
 </div>
 <h3 align="center">FullStack Developer from Argentina</h3>
 <br></br>
-- 🔭 I had been working on [Pl4nner]
-(http://pl4nner.com/)
+- :grey_exclamation: I am working on [Pl4nner](http://pl4nner.com/)
+
+- 🔭 I had been working on [Barber App](https://github.com/leandrofiadone/BarberApp-Front-Final)
+
+- 🌱 I’m currently learning **Solidity, TypeScript, React-Native**
+
+- 🤝 I’m looking for help with [BlockChain](https://github.com/leandrofiadone/full-blockchain-solidity-course-js)
+
+- 👨‍💻 All of my projects are available at [https://github.com/leandrofiadone?tab=repositories](https://github.com/leandrofiadone?tab=repositories)
+
+- 💬 Ask me about **React, Redux, Node.js**
 
 - 🌱 I’m currently learning **Langchain, Solidity, TypeScript, React-Native**
 
