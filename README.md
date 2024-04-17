@@ -1,5 +1,5 @@
 <h1>Hola 👋, here Leandro</h1>
-<h2>FullStack Developer from Argentina</h2>
+<h3>FullStack Developer from Argentina</h3>
 - 🔭 I had been working on [Pl4nner](http://pl4nner.com/)
 
 - 🌱 I’m currently learning **Langchain, Solidity, TypeScript, React-Native**
