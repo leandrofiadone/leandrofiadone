@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  > Full-stack sorcerer by day, AI explorer by twilight, and blockchain dreamer when the stars align. 
-  > I don't just write code; I craft digital experiences that make users go "Wow!" 🎩✨
+  > <h2>Full-stack sorcerer by day, AI explorer by twilight, and blockchain dreamer when the stars align. </h2>
+  > <h2>I don't just write code; I craft digital experiences that make users go "Wow!" 🎩✨</h2>
 
   <br>
 
