@@ -3,12 +3,13 @@
 <div align="center">
   
   > <h3>Full-stack sorcerer by day, AI explorer by twilight, and blockchain dreamer when the stars align. </h3>
-  > <h3>I don't just write code; I craft digital experiences that make users go "Wow!" 🎩✨</h3>
+
 
   <br>
 
   [![My Magical Toolbox](https://skillicons.dev/icons?i=js,html,css,ae,firebase,ai,mongodb,nextjs,nodejs,notion,ps,pr,prisma,pug,py,react,redux,sass,tailwind,ts,vite,astro&perline=11)](https://leanfiadone.vercel.app/)
 
+  > <h3>I don't just write code; I craft digital experiences that make users go "Wow!" 🎩✨</h3>
   <br>
 
   ## 🔮 Current Quests
