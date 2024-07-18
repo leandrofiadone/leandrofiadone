@@ -3,7 +3,7 @@
 
   ## Full-stack alchemist: Transforming code into user delight. AI explorer by day, blockchain dreamer by night. Where tech meets creativity, that's my sweet spot. ⚡
   <br></br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,firebase,ai,mongodb,nextjs,nodejs,notion,ps,pr,prisma,pug,py,react,redux,sass,svelte,tailwind,ts,vite,astro&perline=4)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ae,firebase,ai,mongodb,nextjs,nodejs,notion,ps,pr,prisma,pug,py,react,redux,sass,svelte,tailwind,ts,vite,astro&perline=10)](https://skillicons.dev)
   <br></br>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45">
