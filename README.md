@@ -11,8 +11,7 @@
   [![My Magical Toolbox](https://skillicons.dev/icons?i=js,html,css,ae,firebase,ai,mongodb,nextjs,nodejs,notion,ps,pr,prisma,pug,py,react,redux,sass,tailwind,ts,vite,astro&perline=11)](https://leanfiadone.vercel.app/)
 
   </div>
-  
-    <br>
+
   > <h3>I don't just write code; I craft digital experiences that make users go "Wow!" 🎩✨</h3>
   <br>
 
