@@ -16,11 +16,11 @@
   <br>
 
   ## Current Quests
-<div align="center">
+
   - 🌟 Conjuring digital wonders at [Pl4nner](https://pl4nner.com/)
   - 🧠 Delving into the arcane arts of **Langchain**, **Solidity**, and **React-Native**
   - 🎨 Transforming caffeine into code and dreams into pixels
-</div>
+
   ## 💬 Whisper the magic words...
   
   ### "Hey Leandro, let's create something awesome together!"
