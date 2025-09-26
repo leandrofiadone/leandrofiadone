@@ -20,8 +20,6 @@
 ## 🔭 Current Focus
 - Full-stack development at [Pl4nner](https://pl4nner.com/)  
 - Learning **LangChain**, **Solidity**, and **React Native**  
-- Mixing code, design, and a lot of mate ☕
-
 ---
 
 
