@@ -24,14 +24,5 @@
 
 ---
 
-## ✨ Fun Bits
-- Dark mode enthusiast 🌑  
-- Believe bugs are meant to be tamed, not killed 🐛  
-- Coffee & Charly García fuel my commits 🎶  
 
----
-
-## 📬 Get in Touch
-[![Email](https://img.shields.io/badge/Email-Leandro-blue?style=for-the-badge)](mailto:leanfiadone@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-leanfiadone.vercel.app-black?style=for-the-badge)](https://leanfiadone.vercel.app/)
 
